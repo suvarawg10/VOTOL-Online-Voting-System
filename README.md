@@ -11,4 +11,4 @@ for user you can login by regetraring your own profile
 note: votor id must be of 17 digit Number
 
 
-you can export database from file poll.sql
+you can import database from file poll.sql
